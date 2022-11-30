@@ -22,6 +22,9 @@ setInterval(
         if(val.stock!==0){
           val.stockBoxL.style.color = "#ffff00";
         }
+        else{
+          val.stockBoxL.style.color = "#ffffffb3";
+        }
       }
     }
   },
