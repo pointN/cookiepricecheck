@@ -20,7 +20,7 @@ setInterval(
         }
 
         if(val.stock===0){
-          val.stockoBoxL.style.color = "#ffffff4D";
+          val.stockBoxL.style.color = "#ffffff4D";
         }
         else{
           val.stockBoxL.style.color =  "#ffffff";
