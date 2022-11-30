@@ -19,11 +19,8 @@ setInterval(
           val.valL.style.color=rgAry[8-d];
         }
 
-        if(val.stock===0){
-          val.stockBoxL.style.color = "#ffffff4D";
-        }
-        else{
-          val.stockBoxL.style.color = "#ffffffB3";
+        if(val.stock!==0){
+          val.stockBoxL.style.color = "#ffff00";
         }
       }
     }
