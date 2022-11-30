@@ -23,7 +23,7 @@ setInterval(
           val.stockBoxL.style.color = "#ffffff4D";
         }
         else{
-          val.stockBoxL.style.color =  "#ffffff";
+          val.stockBoxL.style.color = "#ffffffB3";
         }
       }
     }
